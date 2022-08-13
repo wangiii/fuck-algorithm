@@ -2,7 +2,11 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="de4fe707-5750-476f-a633-e17d6c07d451" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/readme.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/kotlinc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/KotlinJavaRuntime.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/fuck-algorithm.iml" beforeDir="false" afterPath="$PROJECT_DIR$/fuck-algorithm.iml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -32,11 +36,13 @@
   "keyToString": {
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
+    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
     "WebServerToolWindowFactoryState": "false",
-    "nodejs_package_manager_path": "npm"
+    "nodejs_package_manager_path": "npm",
+    "settings.editor.selected.configurable": "preferences.pluginManager"
   }
 }]]></component>
-  <component name="RunManager" selected="Application.AssignCookies455">
+  <component name="RunManager" selected="Kotlin.RemoveElement27Kt">
     <configuration name="AssignCookies455" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="greedy.algorithm.AssignCookies455" />
       <module name="fuck-algorithm" />
@@ -57,8 +63,16 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="RemoveElement27Kt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="greedy.algorithm.RemoveElement27Kt" />
+      <module name="fuck-algorithm" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Kotlin.RemoveElement27Kt" />
         <item itemvalue="Application.AssignCookies455" />
         <item itemvalue="Application.Main" />
       </list>
@@ -73,7 +87,10 @@
       <option name="presentableId" value="Default" />
       <updated>1658656434205</updated>
       <workItem from="1658656435645" duration="320000" />
-      <workItem from="1658657190328" duration="1868000" />
+      <workItem from="1658657190328" duration="2116000" />
+      <workItem from="1658670738985" duration="357000" />
+      <workItem from="1658671106652" duration="2324000" />
+      <workItem from="1660402874984" duration="2953000" />
     </task>
     <servers />
   </component>
