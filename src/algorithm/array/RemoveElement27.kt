@@ -1,4 +1,4 @@
-package greedy.algorithm
+package algorithm.array
 
 /**
  * 27. 移除元素
